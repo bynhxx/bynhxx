@@ -4,6 +4,7 @@
 🎓 📚 Information Technology Student (5/6)   
 💚 ☕ Inlove with coffee, beer 🍺, good music 🎵 and tech stuff 💾.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bynhxx&layout=compact)
 
 #### I'm currently learning:  
 ✔️ Node.JS  
