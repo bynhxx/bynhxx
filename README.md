@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Flávia. 👋
 
-<!--
-**bynhxx/bynhxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 📚 Information Technology Student (5/6)   
+💚 ☕ Inlove with coffee, beer 🍺, good music 🎵 and tech stuff 💾.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### I'm currently learning:  
+✔️ Node.JS  
+✔️ Going deeper with Vue.js  
+
+#### 👓 I also know something about...
+🔹 Basics of React and React Native  
+🔹 Basics of Python and PHP  
+🔹 Most and main concepts of Javascript   
+🔹 Basics of MySQL   
+🔹 Vue.js  
+🔹 Sass   
+
+#### 🖥️ Softwares I (almost) daily use: 
+- Figma 💜
+- Wordpress
+- Illustrator
+- Photoshop
+
+
