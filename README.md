@@ -1,7 +1,7 @@
-### Hi there, I'm Flávia. 👋
+###  Hi there, I'm Flávia. 👋
 
 
-🎓 📚 Information Technology Student (5/6)   
+🎓 📚 Information Technology Student (5/6) :hurtrealbad:  
 💚 ☕ Inlove with coffee, beer 🍺, good music 🎵 and tech stuff 💾.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bynhxx&layout=compact)
