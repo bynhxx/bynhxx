@@ -8,7 +8,7 @@
 
 #### I'm currently learning:  
 ✔️ Node.JS  
-✔️ Going deeper with Vue.js  
+✔️ Advanced Vue.js  
 
 #### 👓 I also know something about...
 🔹 Basics of React and React Native  
