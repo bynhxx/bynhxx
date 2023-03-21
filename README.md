@@ -1,8 +1,9 @@
 ###  Hi there, I'm Flávia. 👋
 
 
-🎓 📚 Information Technology Student (5/6) :hurtrealbad:  
-💚 ☕ Inlove with coffee, beer 🍺, good music 🎵 and tech stuff 💾.
+💻 🖌️ UX / UI Designer & Front end Developer
+🎓 📚 Information Technology Student :hurtrealbad:  
+💚 ☕ Inlove with coffee, beer 🍺, good music 🎵 and dogs🐶.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bynhxx&layout=compact)
 
@@ -11,17 +12,10 @@
 ✔️ Vue.js  
 
 #### 👓 I also know something about...
-🔹 Basics of React and React Native  
-🔹 Basics of Python and PHP  
-🔹 Most and main concepts of Javascript   
+🔹 Sass
+🔹 Vue
+🔹 Rest APIs 
 🔹 Basics of MySQL   
-🔹 Vue.js  
-🔹 Sass   
-
-#### 🖥️ Softwares I (almost) daily use: 
-- Figma 💜
-- Wordpress
-- Illustrator
-- Photoshop
-
-
+🔹 Basics of Python and PHP
+🔹 Basics of React and React Native
+🔹 Most and main concepts of Javascript   
