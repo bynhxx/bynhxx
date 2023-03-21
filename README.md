@@ -1,7 +1,7 @@
 ###  Hi there, I'm Flávia. 👋
 
 
-💻 🖌️ UX / UI Designer & Front end Developer
+💻 🖌️ UX / UI Designer & Front end Developer </br>
 🎓 📚 Information Technology Student :hurtrealbad:  
 💚 ☕ Inlove with coffee, beer 🍺, good music 🎵 and dogs🐶.
 
